@@ -1,5 +1,6 @@
 # GUI菜单例子
 这些帮助可以帮助你更好地制作自己的菜单
+* * *
 
 ## [工具包](https://github.com/help-chat/DeluxeMenus/blob/master/gui_menus/kits.yml)
 这个实例能够简单的介绍如何制作一个工具包菜单， 这个例子菜单展现了三种不同的状态
@@ -42,7 +43,6 @@
 如果我们想要玩家连接到 vanilla 子服， 那么我们需要利用一些字符来设置 
 
 left_click_commands: **相应节点
-* * * 
 
 在我们的例子中，我们首先使用 [close] 字符串 以使得先关闭菜单，然后利用 [message] 字符串来给玩家发送信息，最后使用 [connect] 来让玩家连接到相应服务器
 
@@ -76,8 +76,11 @@ left_click_commands: **相应节点
 >/papi reload
 
 [Vault](https://github.com/help-chat/DeluxeMenus/blob/master/gui_menus/store.yml#L18-L59)
+
 [TokenEnchant](https://github.com/help-chat/DeluxeMenus/blob/master/gui_menus/store.yml#L61-L106)
+
 [Player Points](https://github.com/help-chat/DeluxeMenus/blob/master/gui_menus/store.yml#L108-L150)
+
 [Player XP](https://github.com/help-chat/DeluxeMenus/blob/master/gui_menus/store.yml#L152-L195)
 
 ## [META](https://github.com/help-chat/DeluxeMenus/blob/master/gui_menus/meta.yml)
